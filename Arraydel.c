@@ -36,7 +36,7 @@ for(i=loc-1;i<n-1;i++)
  printf("The printed array is %d\n ", a[i]);
 }
 
- 
+ printf("Here is my changed one");
 }
 
 return 0;
